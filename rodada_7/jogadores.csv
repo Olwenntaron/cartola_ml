@@ -1,0 +1,809 @@
+apelido,posicao,clube,jogos,status,preco,variacao_pr,pontos,media_pts,FS,PE,A,FT,FD,FF,G,I,PP,RB,FC,GC,CA,CV,SG,DD,DP,GS,proximo_adversario,proxima_em_casa
+Renato Cajá,Meia,ponte preta,6,Provável,30.43,0.58,8.70,10.33,5,29,2,2,7,7,4,2,0,9,6,0,2,0,0,0,0,0,goiás,True
+Diego Souza,Meia,sport,6,Provável,30.03,0.15,3.20,4.88,12,15,0,0,3,4,3,2,0,5,7,0,2,0,0,0,0,1,joinville,True
+Rogério Ceni,Goleiro,são paulo,6,Provável,28.91,1.76,12.70,8.87,0,6,0,0,0,0,2,0,0,0,0,0,1,0,3,9,1,4,chapecoense,False
+Robinho,Atacante,santos,4,Nulo,28.72,0.00,0.00,6.10,4,24,1,0,4,4,2,3,0,4,3,0,1,0,0,0,0,0,atlético-mg,False
+Luan,Atacante,atlético-mg,5,Nulo,28.21,1.18,6.80,8.38,4,26,2,0,2,2,2,4,0,14,7,0,0,0,0,0,0,0,santos,True
+Luan,Atacante,grêmio,6,Provável,27.95,-2.17,0.50,5.62,22,25,2,1,5,1,1,1,0,5,10,0,0,0,0,0,0,0,atlético-pr,True
+Zé Roberto,Lateral,palmeiras,6,Provável,27.72,-1.44,1.80,8.13,10,12,2,0,4,3,1,0,0,9,4,0,0,0,2,0,0,0,fluminense,True
+D'Alessandro,Meia,internacional,0,Contundido,27.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Fred,Atacante,fluminense,6,Dúvida,25.42,-1.50,0.70,6.23,16,8,1,0,6,3,3,1,0,1,13,0,0,0,0,0,0,0,palmeiras,False
+Weverton,Goleiro,atlético-pr,6,Provável,23.85,0.17,6.00,6.42,6,5,0,0,0,0,0,0,0,0,0,0,2,0,4,9,0,3,grêmio,False
+Paolo Guerrero,Atacante,flamengo,2,Nulo,23.49,0.00,0.00,2.15,7,5,0,0,1,2,0,1,0,2,6,0,0,0,0,0,0,0,coritiba,False
+Everton,Meia,flamengo,5,Provável,23.13,0.00,0.00,3.88,9,20,0,0,3,3,2,10,0,9,9,0,3,0,0,0,0,0,coritiba,False
+Rodinei,Lateral,ponte preta,6,Provável,22.99,-0.34,5.10,7.98,8,10,4,0,1,2,0,2,0,10,3,0,0,0,2,0,0,0,goiás,True
+Edson,Meia,fluminense,6,Provável,22.46,-1.58,1.90,5.27,12,18,0,1,1,5,0,1,0,20,13,0,2,0,0,0,0,0,palmeiras,False
+Leandro Damião,Atacante,cruzeiro,3,Provável,22.38,1.53,8.40,4.07,6,4,1,0,2,4,0,1,0,3,4,0,1,0,0,0,0,0,vasco,False
+Lucas Pratto,Atacante,atlético-mg,5,Nulo,21.94,-2.23,-0.40,5.46,4,12,1,2,6,5,1,1,0,2,7,0,0,0,0,0,0,0,santos,True
+Gil,Zagueiro,corinthians,5,Provável,21.40,2.47,10.90,4.26,2,3,0,1,1,1,0,1,0,5,6,0,2,0,3,0,0,0,internacional,True
+Cássio,Goleiro,corinthians,6,Provável,21.22,0.76,2.70,6.03,0,6,0,0,0,0,0,0,0,0,0,0,1,0,4,10,0,5,internacional,True
+Renan,Goleiro,goiás,6,Provável,20.65,-1.03,-2.00,7.02,2,3,0,0,0,0,0,0,0,0,0,0,0,0,3,11,0,3,ponte preta,False
+Marlon,Zagueiro,fluminense,1,Nulo,20.33,0.00,0.00,11.70,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,palmeiras,False
+Rodrigo,Zagueiro,vasco,6,Provável,19.40,-0.61,3.60,4.43,5,20,0,0,4,2,0,0,0,11,4,0,1,0,2,0,0,0,cruzeiro,True
+Geuvânio,Atacante,santos,6,Nulo,19.24,1.74,9.60,5.08,10,15,0,0,4,8,2,1,0,7,10,0,1,0,0,0,0,0,atlético-mg,False
+Élber,Meia,sport,4,Contundido,19.12,0.00,0.00,5.57,11,9,0,0,3,0,1,0,0,5,0,0,0,0,0,0,0,0,joinville,True
+Rafhael Lucas,Atacante,coritiba,6,Provável,19.09,-0.44,0.30,2.73,5,9,0,0,4,5,1,4,0,3,4,0,0,0,0,0,0,0,flamengo,True
+Aránguiz,Meia,internacional,0,Nulo,19.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Martín Silva,Goleiro,vasco,4,Nulo,18.51,0.00,0.00,4.47,1,2,0,0,0,0,0,0,0,0,0,0,1,0,2,6,0,4,cruzeiro,True
+Marcelo Lomba,Goleiro,ponte preta,6,Provável,18.49,-0.99,4.70,7.48,1,2,0,0,0,0,0,0,0,0,0,0,0,0,2,14,1,7,goiás,True
+Walter,Atacante,atlético-pr,5,Nulo,18.40,-0.44,3.30,3.16,5,31,2,0,6,9,1,5,0,4,10,0,1,1,0,0,0,0,grêmio,False
+Marcelo Grohe,Goleiro,grêmio,4,Nulo,18.29,0.00,0.00,1.50,1,5,0,0,0,0,0,0,0,0,0,0,2,0,1,6,0,6,atlético-pr,True
+Jadson,Meia,corinthians,5,Provável,18.27,2.49,10.30,4.34,5,27,1,0,5,3,1,1,0,6,1,0,1,0,0,0,0,0,internacional,True
+Fábio Santos,Lateral,corinthians,5,Provável,18.13,2.67,11.10,6.24,11,22,1,0,0,0,1,1,0,4,4,0,0,0,3,0,0,0,internacional,True
+Dátolo,Meia,atlético-mg,4,Contundido,18.11,-1.90,-0.10,5.43,2,11,0,1,2,3,2,0,0,2,6,0,0,0,0,0,0,0,santos,True
+Ricardo Oliveira,Atacante,santos,6,Nulo,18.07,0.91,10.10,3.63,4,10,0,1,3,7,3,7,1,2,10,0,2,0,0,0,0,0,atlético-mg,False
+Vitor Hugo,Zagueiro,palmeiras,6,Provável,18.03,-1.92,0.10,7.12,5,8,0,0,2,2,2,0,0,11,11,0,0,0,2,0,0,0,fluminense,True
+Arrascaeta,Meia,cruzeiro,2,Nulo,17.77,0.00,0.00,2.35,3,5,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,vasco,False
+Yuri Mamute,Atacante,grêmio,6,Provável,17.49,0.72,1.90,3.13,16,17,0,0,2,3,2,4,0,4,10,0,2,0,0,0,0,0,atlético-pr,True
+Luis Fabiano,Atacante,são paulo,6,Provável,17.45,1.13,4.90,2.25,2,9,0,1,2,6,2,3,0,0,10,0,2,0,0,0,0,0,chapecoense,False
+Rildo,Atacante,ponte preta,2,Nulo,17.24,0.00,0.00,4.95,7,5,0,0,2,1,1,1,0,1,4,0,1,0,0,0,0,0,goiás,True
+Nilmar,Atacante,internacional,3,Provável,17.17,2.21,10.90,6.67,6,5,0,0,0,2,2,0,0,3,4,0,1,0,0,0,0,0,corinthians,False
+Gum,Zagueiro,fluminense,6,Provável,17.11,0.67,7.90,4.45,3,13,0,0,2,2,0,0,0,6,5,0,1,0,4,0,0,0,palmeiras,False
+Natanael,Lateral,atlético-pr,6,Provável,16.92,-0.29,3.40,5.17,4,22,0,0,0,2,0,0,0,11,5,0,1,0,4,0,0,0,grêmio,False
+Marquinhos,Meia,avaí,4,Nulo,16.83,0.00,0.00,3.02,4,27,1,1,1,3,1,0,0,3,5,0,2,0,0,0,0,0,figueirense,True
+Rafael Marques,Atacante,palmeiras,5,Provável,16.77,-0.01,2.50,4.14,9,16,0,0,3,4,2,1,0,1,4,0,0,0,0,0,0,0,fluminense,True
+Jemerson,Zagueiro,atlético-mg,5,Nulo,16.68,-2.87,-7.30,4.90,2,3,0,0,1,1,2,0,0,6,5,1,0,0,1,0,0,0,santos,True
+Willian,Atacante,cruzeiro,5,Provável,16.61,1.49,7.80,2.84,10,16,0,0,4,6,0,4,0,9,7,0,2,0,0,0,0,0,vasco,False
+Souza,Meia,são paulo,5,Provável,16.60,-0.54,1.40,3.18,5,4,0,0,1,2,0,1,0,11,8,0,1,0,0,0,0,0,chapecoense,False
+Guiñazu,Meia,vasco,5,Provável,16.39,0.00,0.00,3.00,9,5,0,0,0,1,0,0,0,14,13,0,3,0,0,0,0,0,cruzeiro,True
+Tite,Técnico,corinthians,6,Provável,16.30,0.78,5.15,3.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,internacional,True
+Vitinho,Atacante,internacional,6,Dúvida,16.15,1.82,7.50,3.55,4,13,0,0,1,5,2,1,0,6,6,0,2,0,0,0,0,0,corinthians,False
+Marcos Rocha,Lateral,atlético-mg,0,Contundido,16.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,santos,True
+Oliveira,Goleiro,joinville,6,Nulo,15.92,-0.11,0.40,3.55,2,9,0,0,0,0,0,0,0,0,0,0,0,0,1,12,0,9,sport,False
+Luan,Zagueiro,vasco,6,Dúvida,15.85,-0.52,-0.10,3.13,8,19,0,0,1,1,0,0,0,9,9,0,1,0,2,0,0,0,cruzeiro,True
+Willians,Meia,cruzeiro,4,Provável,15.72,0.44,5.90,3.45,6,12,0,0,0,1,0,0,0,16,9,0,2,1,0,0,0,0,vasco,False
+Giovanni,Lateral,fluminense,5,Provável,15.70,2.48,9.90,4.20,3,15,0,0,1,2,0,0,0,8,4,0,0,1,3,0,0,0,palmeiras,False
+Ganso,Meia,são paulo,5,Provável,15.32,-0.39,2.00,2.58,8,16,1,0,1,3,0,0,0,8,8,0,2,0,0,0,0,0,chapecoense,False
+Michel Bastos,Meia,são paulo,4,Provável,15.14,-0.89,2.60,4.72,1,17,0,0,0,5,2,2,0,5,3,0,1,0,0,0,0,0,chapecoense,False
+Fernando Bob,Meia,ponte preta,6,Provável,15.11,0.17,3.60,3.65,6,18,0,0,0,2,0,0,0,22,25,0,1,0,0,0,0,0,goiás,True
+Eduardo Sasha,Atacante,internacional,0,Contundido,15.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Marcos Guilherme ,Meia,atlético-pr,1,Nulo,14.95,0.00,0.00,5.90,3,1,1,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,grêmio,False
+Dória,Zagueiro,são paulo,6,Provável,14.84,0.91,4.70,4.43,3,13,0,0,1,2,1,0,0,3,3,0,0,0,3,0,0,0,chapecoense,False
+Giuliano,Meia,grêmio,6,Provável,14.70,-2.85,1.60,6.07,5,13,2,0,2,2,2,0,0,7,7,0,0,0,0,0,0,0,atlético-pr,True
+Levir Culpi,Técnico,atlético-mg,6,Nulo,14.50,-0.41,1.80,4.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,santos,True
+Wellington Silva,Lateral,fluminense,5,Provável,14.30,-0.19,2.70,3.76,4,12,0,0,0,2,0,0,0,5,5,0,1,0,3,0,0,0,palmeiras,False
+Camilo,Meia,chapecoense,3,Nulo,14.30,0.00,0.00,3.87,4,15,1,0,1,3,0,2,0,5,3,0,0,0,0,0,0,0,são paulo,True
+Edílson,Lateral,corinthians,4,Nulo,14.28,0.00,0.00,4.67,5,8,1,0,0,0,0,0,0,3,5,0,2,0,3,0,0,0,internacional,True
+Rithely,Meia,sport,6,Provável,14.20,0.53,4.60,4.35,4,22,1,0,1,3,0,0,0,18,12,0,1,0,0,0,0,0,joinville,True
+Jean,Meia,fluminense,6,Provável,14.16,-0.72,0.20,1.20,2,22,0,0,4,2,0,0,0,7,9,0,0,0,0,0,0,0,palmeiras,False
+Cleiton Xavier,Meia,palmeiras,2,Provável,14.14,-0.42,0.00,0.10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Valdivia,Meia,palmeiras,4,Nulo,14.07,0.00,0.00,2.05,14,23,0,0,3,3,0,2,0,5,1,0,2,0,0,0,0,0,fluminense,True
+Matheus Ferraz,Zagueiro,sport,6,Provável,14.02,-0.77,2.50,4.37,4,17,0,0,1,2,1,0,0,7,8,0,2,0,3,0,0,0,joinville,True
+Guilherme,Meia,atlético-mg,1,Nulo,13.97,-3.03,0.40,0.40,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,santos,True
+Biro Biro,Atacante,ponte preta,6,Provável,13.90,2.12,8.50,5.08,15,22,0,0,6,5,2,3,0,8,8,0,2,0,0,0,0,0,goiás,True
+Leonardo Silva,Zagueiro,atlético-mg,5,Nulo,13.80,2.07,9.00,4.64,5,11,1,0,0,2,0,1,0,13,10,0,2,0,1,0,0,0,santos,True
+Gabriel,Meia,palmeiras,6,Provável,13.69,1.45,8.10,3.72,8,14,0,0,0,3,1,0,0,12,12,0,1,0,0,0,0,0,fluminense,True
+Dudu,Atacante,palmeiras,4,Nulo,13.64,1.17,6.40,1.85,8,13,1,0,0,2,0,4,0,2,1,0,0,0,0,0,0,0,fluminense,True
+Roger,Atacante,chapecoense,4,Nulo,13.62,0.00,0.00,3.17,8,10,1,0,6,1,1,3,0,0,5,0,2,0,0,0,0,0,são paulo,True
+Victor,Goleiro,atlético-mg,6,Nulo,13.58,-0.98,-3.00,0.55,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,8,santos,True
+Durval,Zagueiro,sport,6,Provável,13.57,-0.58,3.70,4.28,3,18,0,0,1,0,0,0,0,8,0,0,0,0,3,0,0,0,joinville,True
+Bruno Henrique,Atacante,goiás,5,Nulo,13.54,0.96,4.90,5.16,13,13,0,0,5,5,2,2,0,6,7,0,1,1,0,0,0,0,ponte preta,False
+Gerson,Meia,fluminense,6,Provável,13.52,-0.66,0.60,2.45,10,18,1,0,4,3,0,3,0,5,6,0,0,0,0,0,0,0,palmeiras,False
+Diego Cavalieri,Goleiro,fluminense,6,Provável,13.50,0.86,8.00,3.90,0,2,0,0,0,0,0,0,0,0,0,0,1,0,4,6,0,6,palmeiras,False
+Alexandre Pato,Atacante,são paulo,5,Nulo,13.49,0.00,0.00,4.82,7,11,1,0,4,1,2,1,0,1,2,0,1,0,0,0,0,0,chapecoense,False
+Borges,Atacante,ponte preta,5,Nulo,13.23,-1.34,0.40,1.78,0,3,0,0,3,3,1,2,0,1,4,0,1,0,0,0,0,0,goiás,True
+Elicarlos,Meia,chapecoense,6,Provável,13.23,-0.11,1.90,3.47,11,10,0,0,0,0,1,0,0,9,6,0,1,0,0,0,0,0,são paulo,True
+Marquinhos,Atacante,cruzeiro,5,Provável,13.23,2.03,11.00,4.76,6,20,1,0,2,8,1,3,0,6,5,0,0,0,0,0,0,0,vasco,False
+Kadu,Zagueiro,atlético-pr,6,Provável,13.14,-0.23,3.60,4.47,0,11,0,0,0,0,0,0,0,8,3,0,1,0,4,0,0,0,grêmio,False
+Léo,Zagueiro,cruzeiro,1,Nulo,13.08,0.00,0.00,0.40,0,5,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,vasco,False
+Thiago Heleno,Zagueiro,figueirense,1,Contundido,13.01,0.00,0.00,5.70,0,3,0,0,0,1,0,0,0,2,1,0,1,0,1,0,0,0,avaí,False
+Hernane,Atacante,sport,0,Nulo,13.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Wallace,Zagueiro,flamengo,6,Provável,12.95,0.37,2.80,2.60,8,17,0,0,3,3,0,0,0,8,10,0,1,0,1,0,0,0,coritiba,False
+Edu Dracena,Zagueiro,corinthians,6,Provável,12.90,1.19,7.20,4.47,1,7,0,0,0,1,0,2,0,6,3,0,0,0,4,0,0,0,internacional,True
+Alex,Meia,internacional,6,Provável,12.88,0.90,4.00,1.43,14,26,0,0,1,1,0,1,0,6,0,0,1,0,0,0,0,0,corinthians,False
+Alex ,Goleiro,figueirense,5,Provável,12.85,-0.41,1.20,7.12,1,3,0,0,0,0,0,0,0,0,0,0,0,0,1,13,0,4,avaí,False
+Henrique,Meia,cruzeiro,3,Nulo,12.82,0.00,0.00,6.23,6,8,0,0,2,2,1,0,0,6,3,0,1,0,0,0,0,0,vasco,False
+Ananias,Atacante,chapecoense,6,Provável,12.79,-1.83,-0.40,4.13,14,16,1,0,3,1,1,0,0,7,8,0,1,0,0,0,0,0,são paulo,True
+Gilson,Lateral,ponte preta,5,Provável,12.78,-1.49,-1.60,4.02,6,17,0,0,1,1,0,1,0,10,8,0,1,0,2,0,0,0,goiás,True
+Juan Carlos Osorio,Técnico,são paulo,1,Provável,12.74,-0.75,5.32,5.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+Guto Ferreira,Técnico,ponte preta,6,Provável,12.71,-0.12,4.05,5.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Kenedy,Atacante,fluminense,1,Contundido,12.58,0.00,0.00,2.90,3,1,0,0,2,1,0,1,0,0,1,0,0,0,0,0,0,0,palmeiras,False
+Enderson Moreira,Técnico,fluminense,4,Provável,12.53,-0.28,3.64,4.28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Victor Ferraz,Lateral,santos,6,Nulo,12.52,-0.53,0.30,3.27,2,19,1,0,1,0,0,0,0,9,4,0,0,0,1,0,0,0,atlético-mg,False
+Deivid,Meia,atlético-pr,2,Contundido,12.50,0.00,0.00,3.95,5,6,0,0,0,1,0,0,0,5,4,0,0,0,0,0,0,0,grêmio,False
+Danilo,Goleiro,chapecoense,6,Provável,12.48,-2.56,-1.50,3.93,2,8,0,0,0,0,0,0,0,0,0,0,0,0,2,9,0,6,são paulo,True
+Carlos,Atacante,atlético-mg,5,Nulo,12.33,-2.04,0.70,5.18,6,6,1,0,2,2,2,2,0,4,7,0,1,0,0,0,0,0,santos,True
+Jonas,Meia,flamengo,4,Provável,12.33,-0.59,2.10,4.33,9,6,0,0,0,2,0,0,0,11,7,0,1,0,0,0,0,0,coritiba,False
+Diego Aguirre,Técnico,internacional,6,Provável,12.18,1.47,6.95,3.57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Madson,Lateral,vasco,6,Provável,12.18,-0.78,-1.70,2.17,11,17,0,0,1,1,0,1,0,2,4,0,0,0,2,0,0,0,cruzeiro,True
+Patric,Lateral,atlético-mg,6,Nulo,12.06,-0.94,1.10,4.32,5,23,2,0,2,2,1,5,0,7,7,0,1,0,1,0,0,0,santos,True
+Milton Mendes,Técnico,atlético-pr,6,Provável,12.02,0.54,5.44,4.42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Dedé,Zagueiro,cruzeiro,0,Contundido,12.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+Ralf,Meia,corinthians,4,Nulo,11.96,-1.01,-0.50,1.77,2,5,0,0,1,0,0,0,0,8,6,0,2,0,0,0,0,0,internacional,True
+Renato Augusto,Meia,corinthians,3,Provável,11.96,-0.52,0.30,1.40,5,11,0,0,4,3,0,1,0,2,4,0,1,0,0,0,0,0,internacional,True
+Thiago Ribeiro,Atacante,atlético-mg,5,Nulo,11.91,0.14,1.70,3.74,1,11,0,0,4,5,2,1,0,0,3,0,0,0,0,0,0,0,santos,True
+Fernando Prass,Goleiro,palmeiras,6,Provável,11.86,-1.11,-1.30,3.63,4,3,0,0,0,0,0,0,0,1,0,0,0,0,2,7,0,6,fluminense,True
+Renato,Meia,santos,4,Contundido,11.83,0.00,0.00,2.83,1,6,0,0,0,0,0,0,0,8,2,0,0,0,0,0,0,0,atlético-mg,False
+Vinícius,Meia,fluminense,6,Provável,11.80,-1.58,0.00,3.52,5,11,0,1,1,3,2,0,0,4,7,0,2,0,0,0,0,0,palmeiras,False
+Petros,Meia,corinthians,6,Provável,11.79,0.56,3.40,3.28,6,9,0,0,2,0,0,0,0,12,2,0,1,0,0,0,0,0,internacional,True
+Juan,Zagueiro,internacional,1,Provável,11.74,0.00,0.00,1.60,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,corinthians,False
+Rafael Toloi,Zagueiro,são paulo,1,Nulo,11.74,0.00,0.00,-0.30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+Diego Oliveira,Atacante,ponte preta,6,Provável,11.73,-2.13,-1.40,3.68,13,9,0,0,2,2,2,0,0,2,5,0,1,0,0,0,0,0,goiás,True
+Réver,Zagueiro,internacional,4,Contundido,11.49,0.00,0.00,3.17,3,9,0,0,1,0,0,0,0,2,1,0,0,0,2,0,0,0,corinthians,False
+Fábio,Goleiro,cruzeiro,5,Provável,11.49,-0.01,4.00,1.74,2,1,0,0,0,0,0,0,0,0,0,0,1,0,1,5,0,5,vasco,False
+Nikão,Meia,atlético-pr,6,Provável,11.41,0.06,4.90,5.28,3,9,1,0,0,0,3,1,0,7,7,0,2,0,0,0,0,0,grêmio,False
+Uendel,Lateral,corinthians,1,Nulo,11.39,0.00,0.00,8.40,1,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,internacional,True
+Oswaldo De Oliveira,Técnico,palmeiras,6,Provável,11.38,-0.34,1.18,3.45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Jô,Atacante,atlético-mg,2,Nulo,11.32,0.00,0.00,2.80,4,3,0,0,0,0,1,1,0,0,2,0,1,0,0,0,0,0,santos,True
+Lisandro López,Atacante,internacional,2,Suspenso,11.22,-1.19,-1.70,-1.75,3,4,0,1,2,1,0,4,0,0,2,0,1,1,0,0,0,0,corinthians,False
+Fagner,Lateral,corinthians,3,Provável,11.21,0.33,4.10,3.57,6,11,0,0,0,1,0,0,0,4,3,0,0,0,1,0,0,0,internacional,True
+Vanderlei Luxemburgo,Técnico,cruzeiro,5,Provável,11.19,0.48,5.18,3.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+Christiano ,Lateral,vasco,5,Provável,11.19,0.00,0.00,4.22,10,15,0,1,1,4,0,0,0,4,3,0,1,0,2,0,0,0,cruzeiro,True
+Josué,Meia,atlético-mg,2,Nulo,11.06,0.00,0.00,4.20,6,0,1,0,0,0,0,0,0,2,2,0,1,0,0,0,0,0,santos,True
+Anderson,Meia,internacional,6,Suspenso,11.05,1.91,6.10,1.50,8,26,0,0,1,1,0,0,0,13,10,0,3,0,0,0,0,0,corinthians,False
+Gustavo,Zagueiro,atlético-pr,6,Provável,11.04,2.07,10.00,3.72,1,6,0,1,0,1,0,1,0,2,7,0,0,0,4,0,0,0,grêmio,False
+Gil,Meia,chapecoense,6,Provável,10.88,-0.70,-0.30,3.63,11,27,0,0,0,3,1,2,0,14,13,0,1,0,0,0,0,0,são paulo,True
+Elias,Meia,corinthians,2,Nulo,10.88,0.00,0.00,0.00,0,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,internacional,True
+Wesley,Meia,são paulo,4,Provável,10.87,0.92,5.80,2.78,4,11,1,0,2,3,0,0,0,4,7,0,0,0,0,0,0,0,chapecoense,False
+Vanderlei,Goleiro,santos,1,Nulo,10.84,0.00,0.00,-4.30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,atlético-mg,False
+Erik,Atacante,goiás,3,Nulo,10.84,0.00,0.00,1.23,2,4,0,0,2,1,0,0,0,1,1,0,0,0,0,0,0,0,ponte preta,False
+Robinho,Meia,palmeiras,3,Contundido,10.81,0.00,0.00,0.77,3,10,0,0,2,1,0,0,0,3,4,0,1,0,0,0,0,0,fluminense,True
+Carlinhos,Lateral,são paulo,2,Provável,10.80,1.24,7.90,6.55,7,8,0,0,0,0,0,0,0,5,3,0,0,0,1,0,0,0,chapecoense,False
+Eduardo Baptista,Técnico,sport,6,Provável,10.80,-0.16,3.08,4.45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Egídio,Lateral,palmeiras,6,Provável,10.79,-0.23,0.70,2.92,8,32,0,0,1,1,0,1,0,12,9,0,2,0,2,0,0,0,fluminense,True
+Felipe ,Meia,atlético-pr,3,Contundido,10.69,0.00,0.00,1.83,2,12,0,0,1,1,1,0,0,2,6,0,1,0,0,0,0,0,grêmio,False
+Welinton,Zagueiro,coritiba,4,Nulo,10.68,0.00,0.00,5.25,9,19,0,0,0,1,0,0,0,10,1,0,0,0,1,0,0,0,flamengo,True
+Paulo Miranda,Zagueiro,são paulo,5,Contundido,10.64,0.00,0.00,5.20,3,9,0,0,1,1,1,0,0,10,11,0,2,0,2,0,0,0,chapecoense,False
+Elano,Meia,santos,2,Nulo,10.57,-0.30,4.50,2.85,4,3,0,0,1,1,0,0,0,2,1,0,0,0,0,0,0,0,atlético-mg,False
+Emerson,Atacante,corinthians,3,Nulo,10.46,0.00,0.00,-0.40,2,3,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,internacional,True
+Antônio Carlos,Zagueiro,fluminense,5,Provável,10.34,1.12,8.20,4.74,5,11,0,0,1,0,0,0,0,5,0,0,0,0,3,0,0,0,palmeiras,False
+Patrick,Meia,goiás,5,Provável,10.33,0.07,2.80,6.54,16,6,0,0,0,3,0,0,0,17,9,0,0,0,0,0,0,0,ponte preta,False
+Centurión,Atacante,são paulo,3,Nulo,10.30,0.00,0.00,1.17,4,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,chapecoense,False
+David Braz,Zagueiro,santos,6,Contundido,10.25,1.63,5.20,1.60,4,36,0,0,0,3,0,1,0,9,3,0,1,0,1,0,0,0,atlético-mg,False
+Sueliton,Lateral,joinville,5,Nulo,10.21,0.36,2.10,2.62,5,10,1,0,0,0,0,0,0,3,3,0,0,0,1,0,0,0,sport,False
+Mayke,Lateral,cruzeiro,4,Provável,10.18,-0.26,2.20,0.83,1,11,0,0,1,0,0,0,0,3,6,0,1,0,1,0,0,0,vasco,False
+André Lima,Atacante,avaí,4,Nulo,10.12,0.00,0.00,2.80,2,3,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Roger Machado ,Técnico,grêmio,3,Provável,10.03,-0.52,1.87,3.20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Lucas Lima,Meia,santos,6,Nulo,10.02,-1.55,-0.30,3.70,14,33,2,0,1,1,0,0,0,12,6,0,2,0,0,0,0,0,atlético-mg,False
+Renan Oliveira,Meia,avaí,4,Nulo,10.01,-0.64,1.10,2.62,3,9,0,0,0,5,0,1,0,6,3,0,0,0,0,0,0,0,figueirense,True
+Juninho,Meia,figueirense,0,Contundido,10.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Júlio Baptista,Meia,cruzeiro,0,Contundido,10.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+David,Meia,goiás,0,Contundido,10.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Richarlyson,Meia,chapecoense,0,Contundido,10.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Felipe,Goleiro,figueirense,0,Nulo,10.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Fellype Gabriel,Meia,palmeiras,0,Nulo,10.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Eduardo,Lateral,atlético-pr,6,Provável,9.99,-0.53,4.50,4.92,4,22,0,0,1,2,0,0,0,11,6,0,2,0,4,0,0,0,grêmio,False
+Armero,Lateral,flamengo,2,Nulo,9.95,0.00,0.00,0.55,3,11,1,0,0,1,0,1,0,1,4,0,1,0,0,0,0,0,coritiba,False
+Felipe Menezes,Meia,goiás,5,Provável,9.95,-0.38,-1.10,2.62,4,19,2,0,4,1,0,0,0,3,2,0,1,0,0,0,0,0,ponte preta,False
+Carlos Alberto,Meia,figueirense,3,Contundido,9.92,1.56,7.20,5.93,5,5,0,0,1,1,2,0,0,3,4,0,2,0,0,0,0,0,avaí,False
+Felipe Macedo,Zagueiro,goiás,6,Provável,9.92,-0.25,-0.60,2.97,7,9,0,0,0,0,0,0,0,5,9,0,1,0,3,0,0,0,ponte preta,False
+Cristian,Meia,corinthians,3,Provável,9.90,0.44,2.80,2.70,2,11,0,0,2,2,0,0,0,5,3,0,0,0,0,0,0,0,internacional,True
+Lucas,Lateral,palmeiras,5,Provável,9.89,0.00,0.00,2.34,6,8,0,0,1,1,0,2,0,7,11,0,3,0,2,0,0,0,fluminense,True
+Guti,Zagueiro,joinville,6,Provável,9.87,1.21,5.10,2.92,3,2,0,0,0,0,0,0,0,8,4,0,0,0,1,0,0,0,sport,False
+Julio Dos Santos,Meia,vasco,6,Nulo,9.86,-0.81,-1.90,1.78,3,19,0,0,1,2,0,0,0,10,5,0,1,0,0,0,0,0,cruzeiro,True
+Marquinhos,Zagueiro,figueirense,5,Provável,9.74,-0.65,-1.70,3.94,4,6,1,0,1,1,1,2,0,4,4,0,2,0,1,0,0,0,avaí,False
+Werley,Zagueiro,santos,6,Nulo,9.74,0.60,2.00,3.53,2,17,0,1,0,1,1,0,0,8,7,0,1,0,1,0,0,0,atlético-mg,False
+Denilson,Meia,são paulo,4,Provável,9.72,-0.79,-1.10,1.73,6,9,0,0,0,0,0,0,0,8,6,0,2,0,0,0,0,0,chapecoense,False
+Walace,Meia,grêmio,5,Provável,9.71,0.00,0.00,2.60,7,12,0,0,2,1,0,0,0,12,8,0,3,0,0,0,0,0,atlético-pr,True
+Rafael Lima,Zagueiro,chapecoense,6,Provável,9.70,-0.19,1.40,2.55,1,18,1,0,1,0,0,2,0,6,2,0,2,0,2,0,0,0,são paulo,True
+Nilton,Meia,internacional,3,Nulo,9.68,0.00,0.00,2.27,3,6,1,0,0,2,0,0,0,1,2,0,0,0,0,0,0,0,corinthians,False
+Bruno Silva,Meia,chapecoense,6,Provável,9.66,-1.56,0.30,2.72,1,12,0,0,2,2,1,1,0,10,9,0,2,0,0,0,0,0,são paulo,True
+Samuel ,Atacante,sport,2,Nulo,9.56,0.00,0.00,0.55,1,1,0,0,0,1,0,0,0,1,3,0,0,0,0,0,0,0,joinville,True
+Léo,Lateral,internacional,2,Contundido,9.55,0.00,0.00,5.15,6,2,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,corinthians,False
+Danilo Fernandes,Goleiro,sport,4,Provável,9.54,1.79,10.90,7.35,2,2,0,0,0,0,0,0,0,0,0,0,0,0,3,6,0,2,joinville,True
+Doriva,Técnico,vasco,6,Provável,9.43,-0.14,1.32,2.56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Hugo,Atacante,avaí,4,Nulo,9.43,0.00,0.00,5.90,1,3,0,0,4,0,2,1,0,5,4,0,1,0,0,0,0,0,figueirense,True
+Ángel Romero,Atacante,corinthians,4,Dúvida,9.42,0.26,2.20,3.20,12,11,0,0,0,1,1,0,0,2,4,0,0,0,0,0,0,0,internacional,True
+Bruno,Lateral,são paulo,5,Provável,9.36,1.25,5.70,4.48,5,16,1,0,0,1,0,0,0,5,9,0,0,0,3,0,0,0,chapecoense,False
+Dener Assunção,Lateral,chapecoense,5,Provável,9.33,0.35,5.40,5.32,11,35,0,0,0,2,0,1,0,16,9,0,1,0,2,0,0,0,são paulo,True
+Samir ,Zagueiro,flamengo,2,Provável,9.31,1.71,8.90,6.45,1,1,0,0,0,2,0,0,0,4,1,0,0,0,1,0,0,0,coritiba,False
+Valdivia,Meia,internacional,3,Dúvida,9.25,1.31,5.00,2.10,2,6,0,0,3,1,0,0,0,2,0,0,0,0,0,0,0,0,corinthians,False
+Rafael Costa,Atacante,joinville,3,Provável,9.14,0.72,4.90,6.30,4,1,0,0,3,3,1,1,0,3,1,0,0,0,0,0,0,0,sport,False
+Samuel Xavier,Lateral,sport,5,Provável,9.13,0.18,4.70,6.68,7,14,0,0,0,1,1,0,0,7,3,0,0,0,3,0,0,0,joinville,True
+Douglas,Meia,grêmio,2,Nulo,9.12,0.00,0.00,-1.40,2,4,0,0,0,2,0,0,0,0,4,0,1,0,0,0,0,0,atlético-pr,True
+Rafael Galhardo,Lateral,grêmio,4,Contundido,9.11,0.00,0.00,5.05,11,9,1,1,2,1,0,1,0,6,9,0,2,0,1,0,0,0,atlético-pr,True
+Gabriel,Meia,flamengo,6,Provável,9.11,2.49,10.10,3.57,7,12,0,0,2,2,2,1,0,3,5,0,0,0,0,0,0,0,coritiba,False
+Leandro Donizete,Meia,atlético-mg,2,Nulo,9.10,0.00,0.00,-0.30,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,santos,True
+Magrão,Goleiro,sport,2,Contundido,9.09,0.00,0.00,-0.65,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,joinville,True
+Marcelo Fernandes,Técnico,santos,6,Nulo,9.08,0.65,4.18,3.16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Wendel,Meia,sport,6,Provável,9.04,-0.94,-0.20,2.30,6,8,0,0,0,5,0,0,0,11,10,0,2,0,0,0,0,0,joinville,True
+Jorge Henrique,Atacante,internacional,0,Dúvida,9.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Alan Kardec,Atacante,são paulo,0,Contundido,9.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+França,Meia,figueirense,0,Provável,9.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Keirrison,Atacante,coritiba,0,Nulo,9.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Apodi,Lateral,chapecoense,5,Nulo,8.97,-0.68,-1.20,3.26,9,13,0,0,4,1,1,1,0,5,6,0,1,1,1,0,0,0,são paulo,True
+Paulinho,Atacante,flamengo,5,Nulo,8.84,-0.17,0.00,-0.32,3,10,0,0,2,2,0,0,0,0,3,0,1,0,0,0,0,0,coritiba,False
+Cristóvão Borges,Técnico,flamengo,3,Provável,8.80,0.72,3.86,1.96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,coritiba,False
+Rafael Moura,Atacante,internacional,4,Dúvida,8.73,-1.49,0.00,3.25,2,1,0,0,2,3,1,1,0,1,2,0,0,0,0,0,0,0,corinthians,False
+Thalles,Atacante,vasco,2,Nulo,8.71,-0.82,1.00,1.35,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,cruzeiro,True
+Ernando,Zagueiro,internacional,2,Provável,8.69,2.10,8.60,4.55,1,1,0,0,1,0,0,0,0,2,1,0,0,0,1,0,0,0,corinthians,False
+Régis,Meia,sport,5,Provável,8.62,-0.09,0.00,1.66,3,9,1,0,0,0,1,0,0,0,3,0,1,0,0,0,0,0,joinville,True
+Marcelo Oliveira,Lateral,grêmio,6,Provável,8.48,-0.63,1.80,3.30,13,14,1,0,1,1,1,1,0,4,9,0,2,0,1,0,0,0,atlético-pr,True
+Alan Costa,Zagueiro,internacional,2,Provável,8.40,0.67,7.30,8.05,0,3,0,0,0,1,0,0,0,4,1,0,0,0,2,0,0,0,corinthians,False
+Cléo,Atacante,atlético-pr,2,Nulo,8.37,0.00,0.00,3.55,2,6,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,grêmio,False
+Fabrício,Lateral,cruzeiro,2,Contundido,8.34,0.00,0.00,-1.45,6,6,0,0,0,0,0,2,0,2,5,0,2,0,0,0,0,0,vasco,False
+Wellington Paulista,Atacante,coritiba,3,Nulo,8.31,0.00,0.00,0.00,4,10,0,1,1,0,0,1,0,0,6,0,0,0,0,0,0,0,flamengo,True
+Douglas Coutinho ,Atacante,atlético-pr,6,Provável,8.31,0.15,1.70,2.70,2,11,0,0,4,2,2,5,0,3,7,0,1,0,0,0,0,0,grêmio,False
+Otávio ,Meia,atlético-pr,4,Provável,8.20,0.08,2.60,7.12,6,11,0,0,2,2,0,0,0,17,3,0,1,0,0,0,0,0,grêmio,False
+Alex Alves,Zagueiro,goiás,6,Provável,8.16,-1.34,-4.50,2.03,2,5,0,0,0,1,0,1,0,5,14,0,2,0,3,0,0,0,ponte preta,False
+Alan Santos,Meia,coritiba,0,Contundido,8.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Marcos Aurélio,Meia,coritiba,0,Nulo,8.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Pablo,Zagueiro,ponte preta,6,Provável,8.00,0.53,4.60,3.15,5,7,0,0,0,1,0,0,0,9,7,0,2,0,2,0,0,0,goiás,True
+Allione,Meia,palmeiras,0,Contundido,8.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Vilches,Zagueiro,atlético-pr,0,Nulo,8.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Felipe,Zagueiro,corinthians,0,Nulo,8.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,internacional,True
+Ramiro,Meia,grêmio,0,Contundido,8.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Seymour,Meia,cruzeiro,0,Nulo,8.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+Eduardo Costa,Meia,avaí,0,Suspenso,8.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Cleberson,Zagueiro,atlético-pr,0,Contundido,8.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Danilo,Meia,sport,2,Nulo,7.98,-0.79,0.50,0.10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Marcelo Cirino,Atacante,flamengo,4,Nulo,7.97,-1.29,-3.70,0.25,7,18,1,0,1,1,0,3,0,1,4,0,1,0,0,0,0,0,coritiba,False
+Pablo,Lateral,avaí,6,Provável,7.90,0.75,5.50,2.67,17,20,0,0,0,4,0,0,0,6,5,0,1,0,1,0,0,0,figueirense,True
+Cristaldo,Atacante,palmeiras,3,Nulo,7.84,-0.34,-0.50,0.90,3,1,0,1,1,0,0,4,0,0,2,0,0,0,0,0,0,0,fluminense,True
+Marquinhos Pedroso,Lateral,figueirense,4,Contundido,7.81,0.00,0.00,3.90,8,6,0,0,1,0,0,0,0,7,5,0,1,0,1,0,0,0,avaí,False
+Manoel,Zagueiro,cruzeiro,5,Provável,7.80,-2.20,0.20,3.50,8,11,0,0,0,1,1,0,0,3,4,0,0,0,1,0,0,0,vasco,False
+Dagoberto,Atacante,vasco,4,Nulo,7.79,0.00,0.00,-0.70,7,9,0,0,2,0,0,0,0,2,6,0,3,0,0,0,0,0,cruzeiro,True
+Danilo,Meia,corinthians,4,Nulo,7.73,0.00,0.00,-0.45,2,4,0,0,0,2,0,0,0,0,2,0,1,0,0,0,0,0,internacional,True
+Canteros,Meia,flamengo,5,Provável,7.64,-0.62,-2.10,0.10,3,19,0,0,1,4,1,1,0,2,6,0,1,1,0,0,0,0,coritiba,False
+Josimar,Meia,ponte preta,6,Provável,7.59,-0.20,2.80,1.97,7,17,1,0,1,3,0,0,0,9,12,0,2,0,0,0,0,0,goiás,True
+Lucas,Meia,vasco,3,Nulo,7.58,-1.33,0.00,3.37,1,5,0,0,1,0,1,1,0,3,1,0,1,0,0,0,0,0,cruzeiro,True
+Vinícius Eutrópio,Técnico,chapecoense,6,Provável,7.58,-0.95,-0.01,3.23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Chiquinho,Lateral,santos,5,Contundido,7.58,-0.42,0.20,1.26,8,10,0,0,0,0,0,0,0,4,5,0,2,0,1,0,0,0,atlético-mg,False
+Paulo Roberto,Meia,figueirense,5,Provável,7.57,-0.36,0.00,4.38,5,18,0,0,0,1,0,0,0,18,9,0,1,0,0,0,0,0,avaí,False
+Braian Rodríguez,Atacante,grêmio,3,Nulo,7.57,0.40,2.90,3.33,3,2,0,0,0,1,1,0,0,2,2,0,1,0,0,0,0,0,atlético-pr,True
+Fellipe Bastos,Meia,grêmio,5,Provável,7.35,-0.56,0.40,0.64,3,2,0,0,0,0,0,0,0,4,5,0,1,0,0,0,0,0,atlético-pr,True
+Paulo André,Zagueiro,cruzeiro,1,Provável,7.30,0.00,0.00,-4.20,0,4,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,vasco,False
+Emanuel Biancucchi,Meia,vasco,1,Provável,7.29,-1.71,-0.20,-0.20,2,3,0,0,1,0,0,0,0,1,2,0,1,0,0,0,0,0,cruzeiro,True
+Luís Cáceres,Meia,coritiba,2,Nulo,7.27,0.33,2.70,2.20,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,flamengo,True
+Vladimir,Goleiro,santos,6,Nulo,7.26,0.71,2.00,1.88,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,7,atlético-mg,False
+Clayton,Atacante,figueirense,5,Provável,7.23,1.56,5.00,0.16,5,20,1,0,2,1,0,7,0,3,6,0,1,0,0,0,0,0,avaí,False
+Alisson,Atacante,cruzeiro,4,Contundido,7.20,-0.32,1.90,2.07,3,6,1,0,2,2,0,1,0,1,2,0,0,0,0,0,0,0,vasco,False
+Edmílson,Atacante,chapecoense,3,Provável,7.20,0.05,1.00,1.03,2,5,0,0,2,1,0,1,0,2,4,0,0,0,0,0,0,0,são paulo,True
+Ricardinho,Meia,figueirense,4,Provável,7.19,-0.19,0.20,2.55,5,6,1,0,0,1,0,1,0,4,5,0,0,0,0,0,0,0,avaí,False
+Gabriel Xavier,Meia,cruzeiro,5,Contundido,7.16,3.11,11.10,2.48,3,4,0,0,0,3,1,0,0,5,9,0,1,0,0,0,0,0,vasco,False
+Eduardo Da Silva,Atacante,flamengo,5,Provável,7.16,-0.40,-0.90,2.06,1,2,1,0,0,2,1,1,0,0,3,0,1,0,0,0,0,0,coritiba,False
+Rodrigo,Meia,goiás,6,Provável,7.15,0.19,3.00,3.37,4,6,0,0,2,1,1,0,0,9,12,0,0,0,0,0,0,0,ponte preta,False
+Carlinhos,Lateral,coritiba,1,Contundido,7.12,0.00,0.00,1.00,3,3,0,0,0,1,0,0,0,1,4,0,0,0,0,0,0,0,flamengo,True
+Paulinho,Atacante,coritiba,3,Nulo,7.11,0.00,0.00,5.63,2,4,0,0,0,2,1,1,0,6,0,0,1,0,0,0,0,0,flamengo,True
+Malcom,Atacante,corinthians,2,Nulo,7.05,0.00,0.00,1.60,6,5,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0,0,internacional,True
+Gabriel,Atacante,santos,4,Nulo,7.01,-0.41,0.70,0.55,1,6,0,0,1,4,0,2,0,1,2,0,0,0,0,0,0,0,atlético-mg,False
+Murilo Henrique,Meia,goiás,0,Nulo,7.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Ferron,Zagueiro,figueirense,0,Nulo,7.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Ewerton Páscoa ,Zagueiro,sport,0,Nulo,7.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Wellington,Meia,internacional,0,Nulo,7.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+João Paulo,Lateral,palmeiras,0,Nulo,7.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Tinga,Meia,avaí,0,Nulo,7.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Fabinho ,Atacante,joinville,0,Nulo,7.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Cereceda,Lateral,figueirense,5,Provável,6.99,0.78,3.00,1.86,3,11,0,0,0,0,0,0,0,8,11,0,1,0,1,0,0,0,avaí,False
+Marcelo Costa,Meia,joinville,4,Contundido,6.99,0.00,0.00,0.32,4,5,0,0,0,2,0,1,0,2,3,0,1,0,0,0,0,0,sport,False
+Marcão,Atacante,figueirense,4,Provável,6.97,-1.37,-2.90,-0.57,4,6,0,0,3,5,0,5,0,0,5,0,2,0,0,0,0,0,avaí,False
+Anderson Pico,Lateral,flamengo,3,Nulo,6.95,0.00,0.00,1.77,2,14,0,0,1,0,0,0,0,5,2,0,0,0,0,0,0,0,coritiba,False
+Bruno Aguiar,Zagueiro,joinville,5,Nulo,6.93,0.00,0.00,1.58,5,7,0,0,0,1,0,0,0,4,6,0,1,0,1,0,0,0,sport,False
+Hélder,Meia,coritiba,5,Provável,6.93,0.00,0.00,1.12,7,12,0,2,3,1,0,1,0,5,14,0,3,0,0,0,0,0,flamengo,True
+Rafael Carioca,Meia,atlético-mg,5,Nulo,6.92,0.99,6.50,4.02,8,13,0,0,0,2,0,0,0,13,3,0,1,0,0,0,0,0,santos,True
+Leandro Almeida,Zagueiro,coritiba,6,Provável,6.91,-0.13,-0.70,-0.02,2,12,0,0,1,1,0,0,0,4,14,0,2,0,1,0,0,0,flamengo,True
+Vagner Love,Atacante,corinthians,3,Dúvida,6.87,-0.06,-0.90,-0.93,3,9,0,0,0,1,0,2,0,1,2,0,1,0,0,0,0,0,internacional,True
+Leandro Silva,Lateral,figueirense,4,Provável,6.87,0.00,0.00,3.27,3,10,0,0,0,1,0,0,0,12,11,0,3,0,1,0,0,0,avaí,False
+Alisson Becker,Goleiro,internacional,4,Provável,6.85,3.04,11.00,3.75,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,5,0,4,corinthians,False
+Anselmo,Meia,joinville,6,Provável,6.83,0.06,1.40,2.08,6,9,0,0,0,1,0,0,0,10,7,0,1,0,0,0,0,0,sport,False
+Marcelinho Paraíba,Meia,joinville,5,Nulo,6.82,-0.48,-0.40,0.50,3,16,0,0,2,2,0,1,0,2,1,0,0,0,0,0,0,0,sport,False
+Wiliam Barbio,Atacante,chapecoense,1,Nulo,6.82,0.00,0.00,1.00,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Mike,Atacante,sport,6,Nulo,6.81,0.14,1.10,0.97,3,5,1,0,0,3,0,1,0,1,5,0,0,0,0,0,0,0,joinville,True
+Renato Chaves,Zagueiro,ponte preta,1,Nulo,6.76,0.00,0.00,5.90,1,1,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,goiás,True
+Marquinhos Gabriel,Meia,santos,1,Nulo,6.75,0.00,0.00,-4.50,0,4,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,atlético-mg,False
+Charles,Meia,cruzeiro,5,Provável,6.74,-0.38,0.10,1.76,2,16,0,0,0,1,1,0,0,7,8,0,2,0,0,0,0,0,vasco,False
+Kelvin,Atacante,palmeiras,6,Suspenso,6.73,-0.87,-2.90,1.77,11,14,2,0,5,2,0,0,0,2,9,0,3,0,0,0,0,0,fluminense,True
+Esquerdinha,Meia,coritiba,1,Nulo,6.72,0.00,0.00,-0.50,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,flamengo,True
+Everton,Lateral,goiás,6,Provável,6.69,-0.03,-0.40,2.07,3,19,0,0,0,0,0,2,0,3,5,0,0,0,3,0,0,0,ponte preta,False
+Norberto ,Lateral,coritiba,6,Suspenso,6.69,-1.42,-3.80,2.00,11,13,1,0,1,0,0,2,0,7,11,0,3,0,1,0,0,0,flamengo,True
+Maicosuel,Meia,atlético-mg,5,Nulo,6.68,-0.70,-0.50,0.90,2,4,1,0,1,0,0,0,0,1,2,0,1,0,0,0,0,0,santos,True
+Mendoza,Atacante,corinthians,6,Provável,6.64,-1.15,2.00,2.97,11,15,0,0,0,3,1,0,0,6,7,0,0,0,0,0,0,0,internacional,True
+Wallyson,Atacante,coritiba,2,Nulo,6.64,-0.49,1.90,0.95,0,2,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,flamengo,True
+Hélio Dos Anjos,Técnico,goiás,6,Provável,6.60,-0.34,-0.21,2.79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Thiago Mendes,Meia,são paulo,5,Nulo,6.58,-0.57,0.60,3.78,12,11,2,0,2,1,0,2,0,5,4,0,1,0,0,0,0,0,chapecoense,False
+Boschilia,Meia,são paulo,1,Nulo,6.57,0.00,0.00,2.30,1,1,0,0,0,2,0,1,0,1,1,0,0,0,0,0,0,0,chapecoense,False
+Márcio Araújo,Meia,flamengo,4,Provável,6.52,-0.10,1.40,0.97,8,5,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,coritiba,False
+Valencia,Meia,santos,2,Nulo,6.50,0.00,0.00,1.65,1,1,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,atlético-mg,False
+Argel Fucks,Técnico,figueirense,6,Provável,6.44,0.25,2.11,2.62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Pará,Lateral,flamengo,6,Provável,6.42,1.48,5.40,0.08,5,17,0,0,0,1,0,3,0,7,10,1,1,0,1,0,0,0,coritiba,False
+Rafael Silva,Atacante,vasco,5,Provável,6.40,0.41,5.00,2.80,9,13,0,1,6,1,0,0,0,6,6,0,2,0,0,0,0,0,cruzeiro,True
+Yago,Zagueiro,corinthians,1,Nulo,6.33,0.00,0.00,4.00,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,internacional,True
+Renato,Lateral,fluminense,4,Nulo,6.30,0.59,4.70,4.75,6,10,0,0,0,0,0,0,0,5,5,0,1,0,3,0,0,0,palmeiras,False
+Felipe Azevedo,Atacante,ponte preta,6,Provável,6.30,2.64,9.20,0.93,9,19,0,0,0,1,1,0,0,3,6,0,2,0,0,0,0,0,goiás,True
+Rafael Forster,Lateral,goiás,5,Provável,6.26,0.00,0.00,2.04,5,21,0,0,1,0,0,0,0,5,9,0,3,0,3,0,0,0,ponte preta,False
+Dellatorre,Atacante,atlético-pr,1,Nulo,6.24,0.00,0.00,-0.60,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Ruan,Atacante,goiás,1,Nulo,6.24,0.00,0.00,-0.80,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ponte preta,False
+Rhodolfo,Zagueiro,grêmio,5,Provável,6.20,0.20,2.60,2.44,0,4,0,0,0,1,0,1,0,6,4,0,0,0,1,0,0,0,atlético-pr,True
+Claudio Winck,Lateral,internacional,1,Contundido,6.17,0.00,0.00,0.80,1,2,0,0,0,1,0,0,0,1,3,0,0,0,0,0,0,0,corinthians,False
+Tobio,Zagueiro,palmeiras,1,Dúvida,6.17,-1.83,-1.30,-1.30,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,fluminense,True
+Vagner,Goleiro,avaí,6,Provável,6.17,1.60,8.00,2.63,0,4,0,0,0,0,0,0,0,0,0,0,1,0,1,10,0,8,figueirense,True
+Riascos,Atacante,vasco,3,Nulo,6.10,-0.02,2.10,1.57,3,3,0,0,2,2,0,0,0,1,2,0,0,0,0,0,0,0,cruzeiro,True
+Renan,Meia,avaí,6,Provável,6.09,0.41,1.60,1.90,11,10,0,0,0,1,0,0,0,11,13,0,2,0,0,0,0,0,figueirense,True
+Taiberson,Atacante,internacional,4,Nulo,6.08,0.00,0.00,1.30,12,10,0,1,0,2,0,1,0,4,10,0,2,0,0,0,0,0,corinthians,False
+Diguinho,Meia,vasco,2,Provável,6.02,0.00,0.00,3.50,2,4,0,0,0,0,0,0,0,6,2,0,1,0,0,0,0,0,cruzeiro,True
+Gilson Kleina,Técnico,avaí,6,Provável,6.00,1.03,5.29,2.43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Valmir Lucas,Zagueiro,goiás,0,Nulo,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+João Paulo,Lateral,ponte preta,0,Nulo,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Ramon,Meia,goiás,0,Contundido,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Adrianinho,Meia,ponte preta,0,Nulo,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Mena,Lateral,cruzeiro,0,Nulo,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+Cássio,Zagueiro,avaí,0,Nulo,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Alison,Meia,santos,0,Contundido,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Lula,Zagueiro,atlético-pr,0,Nulo,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Anderson Salles,Zagueiro,vasco,0,Dúvida,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Luciano,Atacante,corinthians,0,Contundido,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,internacional,True
+Aranha,Goleiro,palmeiras,0,Nulo,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Douglas Silva,Zagueiro,joinville,0,Nulo,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Jean Patrick,Meia,vasco,0,Nulo,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Walter,Goleiro,corinthians,0,Nulo,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,internacional,True
+Nixon,Atacante,flamengo,0,Contundido,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,coritiba,False
+Daniel,Meia,são paulo,0,Contundido,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+Willian,Meia,sport,0,Nulo,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Geandro,Meia,joinville,0,Contundido,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Henrique,Zagueiro,fluminense,0,Nulo,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+João Filipe,Zagueiro,fluminense,0,Nulo,6.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Pedro Geromel,Zagueiro,grêmio,5,Provável,5.94,0.66,3.60,0.96,7,8,0,0,0,1,0,2,0,5,5,0,1,0,0,0,0,0,atlético-pr,True
+Alan Patrick,Meia,palmeiras,2,Nulo,5.90,0.00,0.00,1.55,2,2,0,0,2,0,0,0,0,1,2,0,0,0,0,0,0,0,fluminense,True
+Rodrigo Caio,Meia,são paulo,3,Provável,5.90,0.58,5.10,1.50,3,8,1,0,0,1,0,0,0,1,4,0,0,0,0,0,0,0,chapecoense,False
+Giovanni Augusto,Meia,atlético-mg,6,Nulo,5.89,0.63,4.10,1.58,7,8,0,0,1,2,0,0,0,5,5,0,0,0,0,0,0,0,santos,True
+Jefferson,Meia,figueirense,3,Nulo,5.88,-0.65,0.00,1.43,3,5,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,avaí,False
+Vítor,Lateral,sport,1,Nulo,5.88,0.00,0.00,0.70,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Roni,Meia,ponte preta,3,Nulo,5.86,0.00,0.00,-0.03,1,2,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,goiás,True
+Ney Franco,Técnico,coritiba,0,Provável,5.82,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Tiago Luis,Atacante,joinville,2,Provável,5.82,0.00,0.00,-0.30,1,5,0,0,1,1,0,0,0,1,2,0,1,0,0,0,0,0,sport,False
+Víctor Cáceres,Meia,flamengo,2,Nulo,5.81,0.00,0.00,2.30,1,3,0,0,2,0,0,0,0,5,7,0,1,0,0,0,0,0,coritiba,False
+Thiago Santana,Atacante,figueirense,1,Nulo,5.71,1.71,9.00,9.00,4,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,avaí,False
+Adriano,Meia,avaí,1,Nulo,5.71,-1.29,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Muriel,Goleiro,internacional,2,Nulo,5.70,0.00,0.00,4.35,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,corinthians,False
+Rodrigo Dourado,Meia,internacional,2,Provável,5.70,1.18,6.80,5.35,1,4,1,0,0,1,0,1,0,6,4,0,1,0,0,0,0,0,corinthians,False
+Guilherme Arana,Lateral,atlético-pr,2,Nulo,5.64,0.86,6.40,7.40,0,1,0,0,0,0,0,0,0,3,0,0,0,0,2,0,0,0,grêmio,False
+William Henrique,Atacante,joinville,2,Nulo,5.62,0.00,0.00,0.75,1,3,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,sport,False
+Roberto,Atacante,avaí,4,Contundido,5.60,0.00,0.00,2.15,6,6,0,0,1,0,1,0,0,2,6,0,1,0,0,0,0,0,figueirense,True
+Nino Paraíba,Lateral,avaí,5,Provável,5.60,0.90,5.50,2.30,10,18,0,0,1,0,0,1,0,7,7,0,1,0,1,0,0,0,figueirense,True
+Almir,Meia,flamengo,2,Contundido,5.60,0.00,0.00,1.20,3,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,coritiba,False
+Nicolás Freitas,Meia,internacional,4,Provável,5.58,-0.88,0.00,2.38,3,7,0,0,0,0,0,0,0,8,7,0,0,0,0,0,0,0,corinthians,False
+Mário Sérgio,Lateral,joinville,2,Provável,5.55,0.00,0.00,4.15,3,8,0,0,0,1,0,0,0,5,6,0,1,0,1,0,0,0,sport,False
+Jael,Atacante,joinville,2,Nulo,5.51,0.00,0.00,0.35,0,1,0,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,sport,False
+Arthur Maia,Meia,flamengo,3,Nulo,5.48,0.00,0.00,0.63,3,5,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,coritiba,False
+Rafael,Goleiro,cruzeiro,1,Nulo,5.44,0.00,0.00,3.70,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,vasco,False
+Douglas Santos,Lateral,atlético-mg,5,Nulo,5.36,0.14,0.80,1.50,2,9,0,0,1,3,0,0,0,3,8,0,0,0,1,0,0,0,santos,True
+Pierre,Meia,fluminense,4,Provável,5.34,0.00,0.00,1.00,4,1,0,0,0,1,0,0,0,3,7,0,0,0,0,0,0,0,palmeiras,False
+Leandro Pereira,Atacante,palmeiras,2,Nulo,5.32,0.00,0.00,-1.50,3,3,0,0,1,2,0,1,0,0,3,0,2,0,0,0,0,0,fluminense,True
+Uelliton,Meia,avaí,1,Nulo,5.22,0.00,0.00,0.60,3,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,figueirense,True
+Jhon Cley,Meia,vasco,2,Provável,5.21,-0.57,0.90,0.70,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Luccas Claro,Zagueiro,coritiba,3,Nulo,5.20,0.02,-0.30,-0.73,0,3,0,0,1,0,0,0,0,1,4,0,1,0,0,0,0,0,flamengo,True
+Leandrinho,Meia,santos,1,Nulo,5.19,0.00,0.00,5.20,1,2,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,atlético-mg,False
+Serginho,Meia,vasco,4,Contundido,5.19,-0.43,0.00,0.60,3,11,0,0,0,1,0,0,0,5,2,0,2,0,0,0,0,0,cruzeiro,True
+Bressan,Zagueiro,flamengo,4,Nulo,5.11,1.75,6.40,1.02,2,5,0,0,0,1,0,0,0,2,5,0,1,0,1,0,0,0,coritiba,False
+Edigar Junio,Atacante,atlético-pr,2,Nulo,5.11,0.00,0.00,0.25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Martín Luque,Meia,internacional,1,Nulo,5.09,0.00,0.00,0.70,5,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,corinthians,False
+Neto Berola,Atacante,santos,1,Nulo,5.08,1.08,6.70,6.70,2,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,atlético-mg,False
+Maikon Leite,Atacante,sport,3,Provável,5.05,-1.98,-0.20,4.47,3,9,0,1,1,2,1,0,0,1,2,0,0,0,0,0,0,0,joinville,True
+William,Lateral,internacional,2,Provável,5.03,0.42,6.50,9.10,4,6,0,0,0,0,0,0,0,5,1,0,0,0,2,0,0,0,corinthians,False
+Marlone,Meia,fluminense,1,Nulo,5.03,0.00,0.00,0.50,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Yago,Atacante,vasco,4,Nulo,5.01,0.00,0.00,0.33,13,3,0,0,0,0,0,1,0,1,3,0,2,0,0,0,0,0,cruzeiro,True
+Renê,Lateral,sport,6,Provável,5.01,-0.68,2.10,3.78,3,30,1,0,2,0,0,0,0,11,5,1,1,0,3,0,0,0,joinville,True
+Dráusio,Zagueiro,joinville,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Alex Silva,Lateral,sport,0,Contundido,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Bruno Furlan,Atacante,joinville,0,Contundido,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Nathan,Zagueiro,palmeiras,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Henrique Mattos,Zagueiro,sport,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Lúcio Flávio,Meia,coritiba,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Diego Cardoso,Atacante,santos,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Leandro,Atacante,ponte preta,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Caju,Lateral,santos,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Matheus Inácio,Goleiro,ponte preta,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Matheus Bertotto,Meia,internacional,0,Contundido,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Dida,Goleiro,internacional,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Edson Silva,Zagueiro,são paulo,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+Sandro Silva,Meia,vasco,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Henrique ,Lateral,vasco,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Marion,Atacante,joinville,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Denis,Goleiro,são paulo,0,Contundido,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+Rodrigo Biro,Lateral,ponte preta,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Matheus Biteco,Meia,grêmio,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Bruno Mota,Meia,atlético-pr,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Douglas Grolli,Zagueiro,cruzeiro,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+Caíque,Atacante,atlético-pr,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Léo Pereira,Zagueiro,atlético-pr,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Martinuccio,Atacante,fluminense,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+André,Atacante,atlético-mg,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,santos,True
+Claudinei,Meia,avaí,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Bonfim ,Zagueiro,coritiba,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Guilherme Santos,Lateral,avaí,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Bruno Mendes,Atacante,avaí,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Vaná,Goleiro,coritiba,0,Nulo,5.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Paulinho,Meia,ponte preta,1,Nulo,4.98,0.00,0.00,3.30,2,2,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,goiás,True
+Robert ,Meia,fluminense,1,Contundido,4.98,0.00,0.00,1.30,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Jackson Caucaia,Meia,vasco,2,Nulo,4.96,1.64,7.10,4.95,4,2,0,0,1,0,0,0,0,5,2,0,0,0,0,0,0,0,cruzeiro,True
+Ruy,Meia,coritiba,5,Provável,4.96,0.27,1.10,1.42,13,20,1,0,4,2,0,0,0,1,3,0,2,0,0,0,0,0,flamengo,True
+Mazola,Atacante,figueirense,4,Nulo,4.96,0.00,0.00,0.58,1,5,0,0,0,1,0,0,0,3,5,0,0,0,0,0,0,0,avaí,False
+Joel,Atacante,cruzeiro,4,Nulo,4.95,-0.30,0.20,0.50,4,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,vasco,False
+Rosinei,Meia,coritiba,3,Contundido,4.93,0.00,0.00,0.67,2,8,0,0,0,1,0,0,0,6,7,0,2,0,0,0,0,0,flamengo,True
+Fabiano,Lateral,cruzeiro,1,Contundido,4.90,0.00,0.00,0.20,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+Adilson Batista,Técnico,joinville,1,Provável,4.89,-0.11,1.65,1.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Ivan,Lateral,coritiba,4,Provável,4.89,0.00,0.00,1.25,5,10,0,0,0,1,0,0,0,4,10,0,1,0,1,0,0,0,flamengo,True
+Rafael Bastos,Meia,figueirense,1,Contundido,4.87,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Lucas Otávio ,Meia,santos,5,Nulo,4.85,0.09,1.70,2.76,4,13,0,0,0,0,0,0,0,16,15,0,2,0,0,0,0,0,atlético-mg,False
+Everton,Atacante,grêmio,3,Nulo,4.83,0.00,0.00,1.37,1,4,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,atlético-pr,True
+Anderson Lopes,Atacante,avaí,6,Provável,4.82,1.28,4.80,2.08,7,13,2,0,3,1,1,5,0,1,8,0,2,0,0,0,0,0,figueirense,True
+Augusto César,Meia,joinville,5,Provável,4.82,-0.97,-0.10,1.32,8,12,0,0,1,1,0,0,0,5,8,0,0,0,0,0,0,0,sport,False
+Jackson,Zagueiro,palmeiras,3,Contundido,4.79,-0.70,-0.90,3.40,2,10,0,0,0,1,0,0,0,5,4,0,0,0,1,0,0,0,fluminense,True
+Rafael Longuine,Meia,santos,3,Nulo,4.78,0.00,0.00,0.53,2,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,atlético-mg,False
+Ayrton,Lateral,palmeiras,3,Nulo,4.77,-1.11,-1.10,3.03,3,7,0,0,1,0,0,0,0,1,2,0,1,0,2,0,0,0,fluminense,True
+Maylson,Meia,chapecoense,1,Contundido,4.75,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Bruno Rangel,Atacante,chapecoense,1,Nulo,4.75,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Paulinho Dias,Meia,atlético-pr,1,Nulo,4.73,0.00,0.00,-0.30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Negueba,Atacante,coritiba,5,Provável,4.71,0.56,3.40,0.62,1,12,0,0,2,4,0,0,0,2,4,0,0,0,0,0,0,0,flamengo,True
+Lucas Coelho,Atacante,goiás,2,Nulo,4.68,-1.17,-0.50,-0.05,1,2,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,ponte preta,False
+Eduardo,Meia,atlético-mg,1,Nulo,4.67,0.00,0.00,4.90,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,santos,True
+Bernardo,Meia,vasco,3,Nulo,4.67,0.00,0.00,-0.20,0,9,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Wanderson,Meia,chapecoense,1,Nulo,4.66,0.00,0.00,-0.60,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Paulão,Zagueiro,internacional,5,Nulo,4.65,0.00,0.00,1.96,1,14,0,1,0,1,0,0,0,4,3,1,0,0,2,0,0,0,corinthians,False
+Rogério,Lateral,joinville,3,Contundido,4.60,0.00,0.00,0.87,2,12,0,0,0,0,0,1,0,1,2,0,0,0,1,0,0,0,sport,False
+Bady,Meia,atlético-pr,1,Nulo,4.56,0.00,0.00,-0.40,0,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,grêmio,False
+Carlos Cesar,Lateral,atlético-mg,1,Nulo,4.52,0.00,0.00,6.40,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,santos,True
+Elias,Atacante,figueirense,1,Nulo,4.52,0.00,0.00,1.70,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Marco Damasceno ,Atacante,atlético-pr,1,Nulo,4.51,0.00,0.00,0.70,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Alan Ruschel,Lateral,internacional,4,Nulo,4.50,0.00,0.00,2.15,14,8,1,0,0,0,0,0,0,5,11,0,2,1,1,0,0,0,corinthians,False
+Hyoran,Meia,chapecoense,4,Nulo,4.46,0.00,0.00,0.77,4,12,0,0,1,2,0,0,0,4,5,0,1,0,0,0,0,0,são paulo,True
+Gabriel Jesus,Atacante,palmeiras,1,Nulo,4.43,0.00,0.00,-0.40,1,2,0,0,1,1,0,1,0,0,3,0,0,0,0,0,0,0,fluminense,True
+Bruno Henrique,Meia,corinthians,6,Contundido,4.40,-0.47,1.10,1.57,6,18,0,1,3,3,0,2,0,6,8,0,1,0,0,0,0,0,internacional,True
+Bruno Rodrigo,Zagueiro,cruzeiro,5,Nulo,4.37,-0.40,-0.10,-0.10,2,8,0,0,0,1,0,0,0,1,5,0,2,0,1,0,0,0,vasco,False
+Renato,Meia,joinville,2,Contundido,4.36,0.07,1.60,1.15,3,2,0,0,1,1,0,0,0,1,4,0,0,0,0,0,0,0,sport,False
+Magno Alves,Atacante,fluminense,4,Dúvida,4.34,-0.17,0.50,0.18,1,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,palmeiras,False
+Henrique Dourado,Atacante,cruzeiro,4,Nulo,4.32,0.00,0.00,0.55,2,4,0,1,1,2,0,3,0,0,4,0,0,0,0,0,0,0,vasco,False
+Dodô,Meia,atlético-mg,3,Nulo,4.30,0.00,0.00,1.10,2,5,0,0,0,2,0,0,0,2,2,0,0,0,0,0,0,0,santos,True
+Diogo Barbosa,Lateral,goiás,2,Nulo,4.30,-0.34,0.20,1.15,0,6,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,ponte preta,False
+Breno Lopes,Lateral,fluminense,1,Nulo,4.29,0.00,0.00,12.00,0,3,1,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,palmeiras,False
+Edcarlos,Zagueiro,atlético-mg,1,Nulo,4.27,0.00,0.00,1.40,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,santos,True
+Amaral,Meia,palmeiras,2,Nulo,4.27,0.00,0.00,-0.75,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,fluminense,True
+Arouca,Meia,palmeiras,3,Provável,4.25,0.13,1.40,0.77,2,5,0,0,0,0,0,0,0,4,4,0,1,0,0,0,0,0,fluminense,True
+Wagner,Meia,fluminense,6,Suspenso,4.23,-1.48,-4.30,-0.63,6,21,0,0,1,1,0,0,0,4,6,0,3,0,0,0,0,0,palmeiras,False
+Lucas Gomes,Atacante,fluminense,2,Nulo,4.14,0.00,0.00,-0.30,1,1,0,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,palmeiras,False
+Ceará,Lateral,cruzeiro,1,Nulo,4.13,0.00,0.00,-1.90,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,vasco,False
+Rodrigo Mancha,Meia,sport,4,Nulo,4.11,0.61,2.20,0.65,1,1,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,joinville,True
+Cárdenas,Meia,atlético-mg,1,Nulo,4.11,0.00,0.00,0.20,1,4,0,0,0,1,0,1,0,1,2,0,0,0,0,0,0,0,santos,True
+Rodolfo,Meia,coritiba,1,Nulo,4.11,0.00,0.00,0.20,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Reinaldo,Lateral,são paulo,5,Nulo,4.03,1.30,5.00,1.60,4,12,0,0,0,1,0,0,0,2,9,0,0,1,3,0,0,0,chapecoense,False
+Thiago Galhardo,Meia,coritiba,5,Provável,4.03,-0.62,-2.80,0.34,8,9,0,0,1,1,1,3,0,1,11,0,2,0,0,0,0,0,flamengo,True
+Marcos Junior,Atacante,fluminense,2,Nulo,4.02,-1.35,-1.00,3.20,1,2,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,palmeiras,False
+Ytalo,Atacante,atlético-pr,3,Nulo,4.02,2.77,8.70,2.13,1,1,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,grêmio,False
+Gilberto,Atacante,vasco,5,Provável,4.01,0.00,0.00,-0.04,10,16,0,0,3,8,0,2,1,5,8,0,2,1,0,0,0,0,cruzeiro,True
+Daniel Guedes ,Lateral,santos,3,Nulo,4.01,0.41,3.40,2.80,1,10,1,0,0,1,0,0,0,6,6,0,1,0,0,0,0,0,atlético-mg,False
+Willian Rocha,Lateral,avaí,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Jubal,Zagueiro,santos,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Thiago Carvalho,Zagueiro,cruzeiro,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+Carlos Henrique,Atacante,figueirense,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Diego Ivo,Zagueiro,ponte preta,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Andrei Girotto,Meia,palmeiras,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Mouche,Atacante,palmeiras,0,Contundido,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Luan,Meia,figueirense,0,Contundido,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Gabriel,Zagueiro,grêmio,0,Contundido,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+João Pedro ,Lateral,palmeiras,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Diogo Sodré,Meia,coritiba,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Edinho,Meia,grêmio,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Guilherme Lazaroni,Lateral,figueirense,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Danilo,Atacante,goiás,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Alessandro,Lateral,atlético-pr,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Felipe Saturnino,Lateral,goiás,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Luiz Fernando ,Meia,fluminense,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Rafinha,Meia,fluminense,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Lucas Olaza,Lateral,atlético-pr,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Nei,Lateral,vasco,0,Contundido,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Jomar,Zagueiro,vasco,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Montoya ,Meia,vasco,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Rafinha,Meia,atlético-pr,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Ricardo Silva,Zagueiro,atlético-pr,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+João Afonso,Meia,chapecoense,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Jair,Meia,internacional,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Auro,Lateral,são paulo,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+César,Goleiro,flamengo,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,coritiba,False
+Lorran,Lateral,vasco,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Sander,Lateral,avaí,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Thiego,Zagueiro,chapecoense,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+André Paulino,Zagueiro,chapecoense,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Alef,Zagueiro,joinville,0,Nulo,4.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Giva,Atacante,coritiba,1,Nulo,3.96,0.00,0.00,-0.30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Luiz Antonio ,Meia,flamengo,3,Provável,3.92,-0.29,-0.30,-0.30,2,9,0,0,1,2,0,0,0,2,2,0,2,0,0,0,0,0,coritiba,False
+Heracles,Lateral,joinville,3,Nulo,3.92,-0.50,0.50,1.80,3,10,0,0,0,1,0,0,0,6,4,0,1,0,0,0,0,0,sport,False
+Lincoln,Meia,grêmio,2,Nulo,3.91,0.00,0.00,0.40,0,2,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,atlético-pr,True
+Eduardo Neto,Meia,avaí,5,Provável,3.90,-0.14,0.00,1.94,4,11,1,0,1,2,0,0,0,8,12,0,2,0,0,0,0,0,figueirense,True
+Everaldo,Atacante,figueirense,4,Nulo,3.89,0.00,0.00,0.97,5,5,0,0,3,1,0,1,0,1,4,0,0,0,0,0,0,0,avaí,False
+Jean Deretti,Meia,figueirense,1,Nulo,3.88,0.00,0.00,-1.10,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,avaí,False
+Vitinho,Atacante,grêmio,2,Nulo,3.87,0.10,0.50,-0.15,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,atlético-pr,True
+Tiago,Goleiro,grêmio,2,Provável,3.86,-0.50,1.70,4.20,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,3,atlético-pr,True
+Neto,Zagueiro,chapecoense,1,Provável,3.86,-1.14,-0.80,-0.80,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,são paulo,True
+Emerson,Zagueiro,avaí,3,Provável,3.82,3.01,11.50,2.33,2,4,0,0,0,2,0,0,0,4,4,0,2,0,1,0,0,0,figueirense,True
+William Popp,Atacante,joinville,4,Provável,3.81,-0.65,-0.80,0.45,4,6,0,0,1,2,0,0,0,1,1,0,1,0,0,0,0,0,sport,False
+Juliano,Meia,goiás,2,Nulo,3.76,0.00,0.00,0.00,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ponte preta,False
+Romário ,Lateral,avaí,5,Provável,3.75,0.43,4.70,1.92,3,14,0,0,0,0,0,0,0,9,8,0,2,0,1,0,0,0,figueirense,True
+Léo Lisboa,Meia,figueirense,1,Nulo,3.72,0.00,0.00,-0.30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Fabinho,Meia,figueirense,5,Contundido,3.66,-0.13,-0.10,1.58,4,11,0,0,0,2,0,2,0,9,5,0,2,0,0,0,0,0,avaí,False
+Maicon,Meia,grêmio,6,Provável,3.62,-0.56,-0.10,-0.62,2,19,0,0,2,1,0,0,0,4,13,0,1,0,0,0,0,0,atlético-pr,True
+Welinton Junior,Atacante,joinville,3,Nulo,3.62,0.06,1.80,1.30,1,2,0,0,1,3,0,0,0,2,1,0,1,0,0,0,0,0,sport,False
+Jéci,Zagueiro,avaí,5,Provável,3.58,1.10,3.70,0.74,5,12,0,0,1,3,0,0,0,1,2,0,2,0,1,0,0,0,figueirense,True
+Willian Farias,Meia,cruzeiro,2,Contundido,3.57,0.00,0.00,-0.05,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+Tiago Alves,Zagueiro,ponte preta,5,Provável,3.55,-1.74,-0.30,2.84,2,9,0,0,0,1,2,1,0,1,4,0,0,1,1,0,0,0,goiás,True
+Nenén,Meia,chapecoense,2,Nulo,3.54,0.00,0.00,0.25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Eduardo,Zagueiro,internacional,2,Nulo,3.49,0.00,0.00,2.50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,corinthians,False
+Jonathan Cafu,Atacante,são paulo,1,Nulo,3.41,0.00,0.00,0.50,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+Fred,Zagueiro,goiás,2,Nulo,3.37,0.00,0.00,2.35,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ponte preta,False
+Wagner,Meia,chapecoense,4,Dúvida,3.36,-0.82,0.30,2.62,9,7,0,0,1,2,0,0,0,6,5,0,1,0,0,0,0,0,são paulo,True
+Hernani,Meia,atlético-pr,6,Provável,3.35,-0.29,1.60,0.85,5,16,0,0,0,5,0,1,0,7,11,0,1,0,0,0,0,0,grêmio,False
+Erazo,Zagueiro,grêmio,2,Nulo,3.31,0.00,0.00,-0.15,2,5,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,atlético-pr,True
+Cesinha,Atacante,ponte preta,3,Nulo,3.29,-0.10,-0.30,2.20,2,1,1,0,0,1,0,1,0,1,2,0,0,0,0,0,0,0,goiás,True
+Marquinhos,Meia,santos,1,Nulo,3.29,0.00,0.00,1.80,1,2,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,atlético-mg,False
+Leandro,Atacante,palmeiras,2,Nulo,3.27,0.00,0.00,-1.00,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,fluminense,True
+Pará,Lateral,cruzeiro,4,Provável,3.22,-1.29,0.40,2.82,9,14,0,0,0,0,0,0,0,5,5,0,0,0,1,0,0,0,vasco,False
+Araújo,Meia,grêmio,1,Nulo,3.21,0.21,2.80,2.80,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,atlético-pr,True
+Yago,Meia,figueirense,5,Provável,3.19,0.79,3.60,1.10,8,5,0,0,1,1,0,0,0,4,7,0,1,0,0,0,0,0,avaí,False
+Julio Cesar,Lateral,vasco,1,Nulo,3.18,-0.82,-0.30,-0.30,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Denner,Meia,avaí,2,Nulo,3.14,0.21,2.30,0.90,1,2,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,figueirense,True
+Giovanni,Meia,atlético-pr,3,Dúvida,3.12,0.10,1.40,1.43,3,10,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0,grêmio,False
+Allano,Atacante,cruzeiro,2,Provável,3.12,1.32,3.90,2.15,1,1,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,vasco,False
+Marrone,Lateral,avaí,1,Nulo,3.10,0.00,0.00,-2.50,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,figueirense,True
+Neto Moura,Meia,sport,4,Provável,3.05,-0.69,-1.20,1.67,1,11,0,0,1,4,1,0,0,1,4,0,1,0,0,0,0,0,joinville,True
+Agenor,Goleiro,joinville,0,Provável,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Kadu,Meia,joinville,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Rudnei,Meia,avaí,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Andrigo,Meia,internacional,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Conrado,Atacante,avaí,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Eberson,Zagueiro,coritiba,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Evandro,Lateral,sport,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Gustavo Scarpa,Meia,fluminense,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Érico Júnior,Atacante,sport,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Marciel,Meia,corinthians,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,internacional,True
+Ewandro,Atacante,são paulo,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+Naldinho,Meia,sport,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Ronaldo,Meia,sport,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Klever,Goleiro,fluminense,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Luiz Carlos ,Goleiro,sport,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Diego,Goleiro,avaí,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Revson,Meia,avaí,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Mosquito,Atacante,vasco,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Aislan,Zagueiro,vasco,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Matheus Sávio,Atacante,flamengo,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,coritiba,False
+Guilherme Batata,Meia,atlético-pr,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Guilherme Andrade,Lateral,corinthians,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,internacional,True
+Breno,Zagueiro,são paulo,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+Trípodi,Atacante,joinville,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Santos,Goleiro,atlético-pr,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Crysan,Atacante,atlético-pr,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Jonatan Lucca,Meia,atlético-pr,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Bruno Pelissari,Meia,atlético-pr,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Caramelo,Lateral,chapecoense,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Nivaldo,Goleiro,chapecoense,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Ryder,Meia,palmeiras,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Leonardo,Zagueiro,santos,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Núbio Flávio ,Atacante,atlético-pr,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Tiago Costa,Lateral,chapecoense,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Dudu,Atacante,figueirense,2,Nulo,3.00,0.00,0.00,-0.55,2,2,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,avaí,False
+Lucas Crispim,Meia,santos,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Moisés,Meia,grêmio,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Marcelo Hermes,Lateral,grêmio,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Mário Sérgio,Lateral,goiás,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Saimon,Zagueiro,figueirense,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Zeca,Lateral,santos,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Rafael Donato,Zagueiro,joinville,0,Contundido,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Júnior Lopes,Zagueiro,goiás,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Fabio,Goleiro,palmeiras,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Clayton Sales,Lateral,goiás,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Lucas Cândido,Meia,atlético-mg,0,Contundido,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,santos,True
+Marcos Vinícius,Meia,cruzeiro,0,Contundido,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+Maicon Talhetti,Meia,figueirense,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Giovanni,Goleiro,atlético-mg,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,santos,True
+Luccas Barreto,Meia,coritiba,0,Nulo,3.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Neilton,Atacante,cruzeiro,1,Nulo,2.99,0.00,0.00,1.50,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+Alisson Farias,Meia,internacional,3,Nulo,2.90,0.00,0.00,1.00,3,2,0,0,1,1,0,0,0,2,2,0,1,0,0,0,0,0,corinthians,False
+Frauches ,Zagueiro,flamengo,1,Nulo,2.83,0.83,4.40,4.40,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,coritiba,False
+Paulo Victor,Goleiro,flamengo,6,Provável,2.78,1.62,8.00,-0.40,1,3,0,0,0,0,0,0,0,0,0,0,1,0,1,5,0,10,coritiba,False
+Everton Silva,Lateral,avaí,1,Nulo,2.77,0.00,0.00,-0.50,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Judivan ,Atacante,cruzeiro,1,Nulo,2.77,0.00,0.00,-0.50,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,vasco,False
+Jadson,Meia,atlético-pr,5,Nulo,2.77,0.83,1.70,-1.12,4,9,0,0,0,0,0,0,0,3,6,0,1,1,0,0,0,0,grêmio,False
+Juninho,Meia,ponte preta,5,Nulo,2.70,-0.06,0.50,0.14,1,3,0,0,0,1,0,0,0,2,2,0,1,0,0,0,0,0,goiás,True
+Artur,Lateral,internacional,2,Nulo,2.69,1.22,4.40,1.95,1,5,0,0,0,0,0,0,0,2,3,0,1,0,1,0,0,0,corinthians,False
+Oswaldo,Zagueiro,sport,1,Nulo,2.69,0.00,0.00,-0.60,0,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,joinville,True
+Hudson,Meia,são paulo,5,Nulo,2.68,-0.24,1.20,0.46,1,9,0,0,1,0,0,0,0,5,6,0,1,0,0,0,0,0,chapecoense,False
+Geferson,Lateral,internacional,2,Nulo,2.67,0.00,0.00,3.10,0,4,0,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,corinthians,False
+João Paulo,Meia,coritiba,6,Provável,2.63,0.12,0.20,-0.45,4,18,0,0,1,1,0,0,0,5,11,0,2,0,0,0,0,0,flamengo,True
+Marcelo,Zagueiro,flamengo,1,Contundido,2.63,0.00,0.00,2.70,1,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,coritiba,False
+Maranhão,Meia,chapecoense,3,Nulo,2.62,0.35,0.20,-0.63,2,2,0,0,0,1,0,0,0,0,2,0,1,0,0,0,0,0,são paulo,True
+Vilson,Zagueiro,chapecoense,6,Suspenso,2.60,-2.31,-6.10,0.28,4,14,0,0,0,0,0,0,0,2,5,0,1,1,2,0,0,0,são paulo,True
+Antônio Carlos ,Zagueiro,avaí,5,Suspenso,2.53,1.72,5.30,-0.26,4,10,0,0,1,1,0,0,0,5,7,1,3,0,1,0,0,0,figueirense,True
+Niltinho,Atacante,joinville,2,Nulo,2.48,-0.11,0.50,0.45,3,6,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,sport,False
+Bruno,Goleiro,coritiba,6,Provável,2.47,-1.51,-4.30,0.32,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,9,flamengo,True
+Cicinho,Lateral,santos,1,Contundido,2.37,0.00,0.00,-2.00,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,atlético-mg,False
+Mateus Oliveira,Atacante,coritiba,1,Nulo,2.37,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Paulo,Atacante,goiás,1,Nulo,2.37,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Ícaro,Meia,coritiba,1,Nulo,2.31,-0.69,-0.50,-0.50,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,flamengo,True
+Nirley,Zagueiro,figueirense,1,Contundido,2.29,0.00,0.00,-2.10,1,1,0,0,0,0,0,0,0,1,4,0,1,0,0,0,0,0,avaí,False
+Pedro Rocha,Atacante,grêmio,5,Provável,2.19,-0.67,0.00,1.40,1,10,1,0,2,3,0,2,0,2,4,0,0,0,0,0,0,0,atlético-pr,True
+Arthur,Meia,goiás,3,Nulo,2.19,-0.75,-1.20,0.47,0,6,0,0,2,0,0,0,0,1,1,0,0,0,0,0,0,0,ponte preta,False
+Abuda,Meia,chapecoense,4,Nulo,2.18,-1.05,-0.30,1.80,1,16,1,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,são paulo,True
+Eurico,Meia,cruzeiro,2,Nulo,2.16,0.00,0.00,-0.05,4,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,vasco,False
+Dankler,Zagueiro,joinville,2,Provável,2.07,-0.30,0.50,0.25,0,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,sport,False
+Matteus ,Meia,atlético-pr,0,Contundido,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Rafael Zuchi,Zagueiro,atlético-pr,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Erick Daltro,Lateral,vasco,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Victor Oliveira,Zagueiro,fluminense,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Matheus ,Atacante,chapecoense,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Victor Bolt,Meia,vasco,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Michael,Atacante,fluminense,0,Suspenso,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Nilson,Atacante,santos,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Tinga,Lateral,grêmio,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Lucas Ramon ,Lateral,grêmio,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Rafael Vaz,Zagueiro,vasco,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Baiano,Zagueiro,goiás,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Gelson,Meia,goiás,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Matheus Cassini,Meia,corinthians,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,internacional,True
+Eriks,Zagueiro,internacional,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Gustavo Ferrareis,Atacante,internacional,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Erick Samuel,Atacante,grêmio,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Leandro Silva,Zagueiro,coritiba,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Crystian,Lateral,santos,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Emerson Conceição,Lateral,atlético-mg,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,santos,True
+Artur,Zagueiro,fluminense,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Arancibia,Meia,palmeiras,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Juninho,Meia,palmeiras,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Diego,Lateral,joinville,0,Provável,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Hugo Gumiero,Goleiro,atlético-pr,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Balbino,Meia,grêmio,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Nathan Índio,Meia,ponte preta,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Arthur,Meia,grêmio,0,Contundido,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Luiz Paulo ,Lateral,atlético-pr,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Juninho,Meia,avaí,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Deivid Duarte,Zagueiro,goiás,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Leonardo,Lateral,fluminense,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Liniker,Meia,goiás,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Ian,Meia,ponte preta,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Igor ,Zagueiro,chapecoense,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Walisson,Zagueiro,coritiba,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Léo Rodrigues,Lateral,figueirense,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Serginho,Meia,santos,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Rodrigo Ramos,Lateral,coritiba,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Jorge,Lateral,flamengo,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,coritiba,False
+Paulo Victor ,Atacante,coritiba,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Alex,Zagueiro,cruzeiro,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+Felipe Zang,Zagueiro,chapecoense,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Léo Cittadini,Meia,santos,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Guilherme,Goleiro,corinthians,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,internacional,True
+Bernardo,Zagueiro,ponte preta,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Michel,Lateral,chapecoense,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Renan Ribeiro,Goleiro,são paulo,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+Ivan,Goleiro,ponte preta,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Mateus Silva,Atacante,joinville,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Jonathan,Zagueiro,ponte preta,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Gabriel Gasparotto,Goleiro,santos,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Citta Júnior,Meia,ponte preta,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Sinho,Lateral,sport,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Júlio César,Goleiro,fluminense,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Lucas Machado,Meia,chapecoense,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Bruno Santos,Lateral,figueirense,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Ítalo,Atacante,sport,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Joãozinho,Lateral,joinville,0,Contundido,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Danrlei,Zagueiro,joinville,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Juninho,Meia,joinville,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Horácio,Meia,sport,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Jonatan Ponciano,Atacante,figueirense,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Daniel,Atacante,figueirense,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Renato,Meia,avaí,0,Nulo,2.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Henrique,Zagueiro,figueirense,1,Nulo,1.98,0.00,0.00,1.50,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+William Cordeiro,Lateral,figueirense,1,Nulo,1.90,0.00,0.00,1.40,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,avaí,False
+Kempes,Atacante,joinville,5,Dúvida,1.87,0.36,0.70,-1.16,4,8,0,0,1,2,0,4,0,1,11,0,1,0,0,0,0,0,sport,False
+Rômulo,Atacante,avaí,3,Provável,1.81,1.00,4.20,1.13,1,2,0,0,0,0,1,0,0,0,5,0,1,0,0,0,0,0,figueirense,True
+Ítalo,Meia,joinville,1,Nulo,1.79,0.00,0.00,0.50,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,sport,False
+Carlos ,Atacante,goiás,2,Nulo,1.75,-0.70,-1.00,0.95,4,0,0,0,0,1,0,1,0,1,4,0,0,0,0,0,0,0,ponte preta,False
+Lucão,Zagueiro,são paulo,1,Nulo,1.74,0.00,0.00,0.20,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,chapecoense,False
+Júnior,Lateral,grêmio,2,Nulo,1.69,-0.16,0.40,-0.35,2,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,atlético-pr,True
+Lucas Marques,Meia,internacional,1,Nulo,1.66,0.00,0.00,0.10,1,6,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,corinthians,False
+Péricles,Meia,goiás,4,Provável,1.63,0.00,0.00,0.10,5,9,0,0,0,3,0,0,0,5,8,0,3,0,0,0,0,0,ponte preta,False
+Tiago ,Zagueiro,atlético-mg,1,Nulo,1.58,0.00,0.00,0.00,0,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,santos,True
+Luan Polli ,Goleiro,figueirense,1,Nulo,1.58,0.00,0.00,1.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,avaí,False
+João Paulo,Atacante,são paulo,2,Nulo,1.34,0.00,0.00,-0.15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+Robert,Atacante,goiás,2,Nulo,1.15,0.00,0.00,0.60,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Ygor,Meia,goiás,1,Contundido,1.11,0.00,0.00,-4.60,2,2,0,0,0,0,0,0,0,0,6,0,1,0,0,0,0,0,ponte preta,False
+Victor Ramos,Zagueiro,palmeiras,3,Dúvida,1.03,0.00,0.00,-1.93,3,3,0,0,0,1,0,1,0,2,4,1,1,1,1,0,0,0,fluminense,True
+Jeferson,Lateral,ponte preta,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+João Carlos,Goleiro,ponte preta,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Vitor,Goleiro,grêmio,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Reynaldo ,Goleiro,ponte preta,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Kauê,Meia,ponte preta,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Gabriel Silva,Zagueiro,grêmio,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Rodrigo Lobão,Zagueiro,ponte preta,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Matheus Ribeiro,Lateral,atlético-pr,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Kevin ,Lateral,avaí,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Junio ,Lateral,ponte preta,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Vitor Xavier,Atacante,ponte preta,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Jhonatan,Goleiro,joinville,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Matheus,Goleiro,joinville,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Silas,Meia,internacional,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Alan,Goleiro,cruzeiro,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+Thiago,Goleiro,flamengo,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,coritiba,False
+Jacsson,Goleiro,internacional,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Wallace,Goleiro,goiás,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Matheus Alves,Goleiro,goiás,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Túlio,Meia,goiás,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Elisson,Goleiro,cruzeiro,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,vasco,False
+Vinícius Silvestre,Goleiro,palmeiras,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Bocão,Lateral,goiás,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Wellington,Zagueiro,palmeiras,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Gabriel Félix,Goleiro,vasco,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Paulo Henrique,Goleiro,goiás,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ponte preta,False
+Samuel,Goleiro,coritiba,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Jatobá,Zagueiro,figueirense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Léo,Goleiro,grêmio,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Paulo Ricardo,Zagueiro,santos,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+João Paulo,Goleiro,santos,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-mg,False
+Vitor,Goleiro,joinville,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+André Baumer,Zagueiro,joinville,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Matheus,Lateral,são paulo,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+Igor,Zagueiro,joinville,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sport,False
+Jailson,Goleiro,palmeiras,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Rafael Martins,Goleiro,coritiba,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+William Menezes,Goleiro,coritiba,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamengo,True
+Marcos Felipe ,Goleiro,fluminense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Gustavo Marmentini,Meia,atlético-pr,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+João Pedro,Meia,atlético-pr,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Alexandre Cajuru,Goleiro,atlético-pr,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Lucas Macanhan,Goleiro,atlético-pr,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Leandro,Atacante,internacional,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Adryelson,Zagueiro,sport,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Thallyson,Lateral,flamengo,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,coritiba,False
+Jajá,Meia,flamengo,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,coritiba,False
+Douglas Baggio,Atacante,flamengo,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,coritiba,False
+Paulinho,Meia,atlético-mg,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,santos,True
+Jesiel,Zagueiro,atlético-mg,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,santos,True
+Lucas Perri,Goleiro,são paulo,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+Leo,Goleiro,são paulo,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,chapecoense,False
+Donato,Zagueiro,atlético-mg,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,santos,True
+Bruno Gomes,Atacante,internacional,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,corinthians,False
+Jean Felipe,Lateral,atlético-pr,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Júnior De Barros,Atacante,atlético-pr,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Iury,Atacante,avaí,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+James Dean,Atacante,sport,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Philipe Maia,Zagueiro,avaí,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+João Paulo,Goleiro,chapecoense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Matheus Índio,Meia,vasco,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Marquinhos,Atacante,vasco,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Romarinho,Atacante,vasco,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cruzeiro,True
+Alisson,Atacante,sport,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Toshi,Meia,avaí,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Kelvenny,Atacante,sport,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Vítor,Goleiro,avaí,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,figueirense,True
+Bryan Olivera,Meia,fluminense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Bruninho,Atacante,fluminense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Pablo Dyego,Atacante,fluminense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Uilson,Goleiro,atlético-mg,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,santos,True
+José Ivaldo,Zagueiro,atlético-pr,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Jajá,Meia,chapecoense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Ygor Nogueira,Zagueiro,fluminense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Pedro,Lateral,chapecoense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Julen,Meia,palmeiras,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Rafael Thyere,Zagueiro,grêmio,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Gabriel Leite,Meia,palmeiras,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,fluminense,True
+Matheuzinho,Meia,figueirense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Rodrigo Sam,Zagueiro,corinthians,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,internacional,True
+Caique,Goleiro,corinthians,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,internacional,True
+Matheus Vidotto,Goleiro,corinthians,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,internacional,True
+Malcoon,Lateral,ponte preta,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,goiás,True
+Breno,Lateral,atlético-pr,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grêmio,False
+Matheus Pereira,Meia,corinthians,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,internacional,True
+Raul,Lateral,grêmio,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Daniel,Goleiro,flamengo,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,coritiba,False
+Ronan,Lateral,fluminense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,palmeiras,False
+Gabriel,Zagueiro,atlético-mg,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,santos,True
+Bruno Grassi,Goleiro,grêmio,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,atlético-pr,True
+Júnior,Goleiro,figueirense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,avaí,False
+Silvio,Goleiro,chapecoense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Willian ,Goleiro,chapecoense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Wesley,Lateral,chapecoense,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,são paulo,True
+Matheus Galdezani,Meia,sport,0,Nulo,1.00,0.00,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,joinville,True
+Dener,Meia,figueirense,2,Nulo,0.93,-0.73,-0.80,-1.35,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,avaí,False
+Wesley,Atacante,goiás,4,Nulo,0.82,0.01,1.40,-1.25,6,3,0,0,2,1,0,0,0,1,11,0,3,0,0,0,0,0,ponte preta,False
+Bruno Alves,Zagueiro,figueirense,5,Provável,0.82,0.01,-0.50,-1.14,2,6,0,0,0,0,0,0,0,3,6,0,1,1,0,0,0,0,avaí,False
+Jarlan,Atacante,goiás,1,Nulo,0.82,-0.18,-3.30,-3.30,2,1,0,0,0,0,0,3,0,0,1,0,1,0,0,0,0,0,ponte preta,False
+Thiago Maia,Meia,santos,2,Nulo,0.82,0.03,-0.10,-0.30,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,atlético-mg,False
+Henrique,Lateral,coritiba,2,Provável,0.82,-0.66,-4.80,-1.50,0,9,0,0,1,0,0,0,0,1,2,0,1,0,0,0,0,0,flamengo,True
+Fabrício Baiano,Meia,coritiba,2,Nulo,0.82,-0.76,-3.30,-1.65,0,1,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,flamengo,True
+Charles ,Goleiro,vasco,2,Nulo,0.82,-0.57,-1.00,0.50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,cruzeiro,True
+Naldo,Meia,joinville,4,Dúvida,0.81,0.00,0.00,-1.65,1,6,0,0,0,0,0,0,0,1,4,0,0,1,0,0,0,0,sport,False
+Jordi,Goleiro,vasco,1,Provável,0.81,0.00,0.00,-4.50,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,cruzeiro,True
+William Kozlowski,Meia,goiás,3,Nulo,0.81,0.00,0.00,-1.27,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,ponte preta,False
+Bruno Edgar,Meia,cruzeiro,1,Nulo,0.81,0.00,0.00,-0.50,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,vasco,False
+Lucas Mugni,Meia,flamengo,1,Contundido,0.79,0.00,0.00,-2.30,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,coritiba,False
+Eltinho,Lateral,avaí,2,Nulo,0.79,0.00,0.00,-2.10,0,4,0,0,1,0,0,0,0,0,4,0,1,0,0,0,0,0,figueirense,True
+Pedro Botelho,Lateral,atlético-mg,1,Nulo,0.79,0.00,0.00,-2.10,2,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,santos,True
+Silva,Meia,internacional,1,Nulo,0.79,0.00,0.00,-1.20,1,3,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,corinthians,False
+Gustavo Henrique,Zagueiro,santos,1,Nulo,0.79,0.00,0.00,-6.60,0,2,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,atlético-mg,False
+Danilo Pires,Meia,atlético-mg,1,Nulo,0.79,0.00,0.00,-0.80,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,santos,True
