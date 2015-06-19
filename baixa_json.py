@@ -40,6 +40,14 @@ def decode_json(j):
                 d[h] = i['quantidade']
         if h not in d.keys():
             d[h] = 0
+
+    if d['clube'] == j['partida_clube_visitante']['nome']:
+        d['proximo_adversario'] = j['partida_clube_visitante']['nome']
+        d['proxima_em_casa'] = True
+    else:
+        d['proximo_adversario'] = j['partida_clube_casa']['nome']
+        d['proxima_em_casa'] = False
+        
     return d
 
 
