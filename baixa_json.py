@@ -42,11 +42,11 @@ def decode_json(j):
             d[h] = 0
 
     if d['clube'] == j['partida_clube_visitante']['nome']:
-        d['proximo_adversario'] = j['partida_clube_visitante']['nome']
-        d['proxima_em_casa'] = True
-    else:
         d['proximo_adversario'] = j['partida_clube_casa']['nome']
         d['proxima_em_casa'] = False
+    else:
+        d['proximo_adversario'] = j['partida_clube_visitante']['nome']
+        d['proxima_em_casa'] = True
         
     return d
 
